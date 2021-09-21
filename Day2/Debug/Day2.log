@@ -1,0 +1,8 @@
+﻿  Day2.c
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day2\Day2.c(38,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day2\Day2.c(279,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day2\Day2.c(284,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Day2_main.c
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day2\Day2_main.c(145,12): warning C4098: 'volume_generator': 'void' function returning a value
+  Generating Code...
+  Day2.vcxproj -> E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day2\Debug\Day2.exe
