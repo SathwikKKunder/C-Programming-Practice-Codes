@@ -1,0 +1,8 @@
+﻿  Day3 main.c
+  Day3.c
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day3\Day3.c(12,35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day3\Day3.c(26,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day3\Day3.c(194): warning C4716: 'concatenate_two_integer': must return a value
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day3\Day3.c(239): warning C4715: 'math_function': not all control paths return a value
+  Day3.vcxproj -> E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day3\Debug\Day3.exe
