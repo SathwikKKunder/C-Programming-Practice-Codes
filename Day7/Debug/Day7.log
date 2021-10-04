@@ -1,0 +1,4 @@
+﻿  Day7.c
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day7\Day7.c(143,6): warning C4013: 'free' undefined; assuming extern returning int
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day7\Day7.c(144,15): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+  Day7.vcxproj -> E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day7\Debug\Day7.exe
