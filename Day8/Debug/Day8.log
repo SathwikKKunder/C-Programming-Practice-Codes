@@ -1,0 +1,3 @@
+﻿  Day8 main.c
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day8\Day8 main.c(26,37): warning C4013: 'malloc' undefined; assuming extern returning int
+  Day8.vcxproj -> E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day8\Debug\Day8.exe
