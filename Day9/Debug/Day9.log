@@ -1,0 +1,6 @@
+﻿  Day9 .c
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day9\Day9 .c(24,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day9\Day9 .c(48,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day9\Day9 .c(68,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day9\Day9 .c(431): warning C4715: 'directory_search': not all control paths return a value
+  Day9.vcxproj -> E:\Program Files\Microsoft Visual Studio\Source\Fast Track C\Day9\Debug\Day9.exe
